@@ -1,0 +1,33 @@
+nums = set()
+n1 = int(input("Enter 1st number: "))
+nums.add(n1)
+n2 = int(input("Enter 2nd number: "))
+nums.add(n2)
+n3 = int(input("Enter 3rd number: "))
+nums.add(n3)
+n4 = int(input("Enter 4th number: "))
+nums.add(n4)
+n5 = int(input("Enter 5th number: "))
+nums.add(n5)
+n6 = int(input("Enter 6th number: "))
+nums.add(n6)
+n7 = int(input("Enter 7th number: "))
+nums.add(n7)
+n8 = int(input("Enter 8th number: "))
+nums.add(n8)
+
+print(nums)
+
+# n1 = int(input("Enter 1st number: "))
+# n2 = int(input("Enter 2nd number: "))
+# n3 = int(input("Enter 3rd number: "))
+# n4 = int(input("Enter 4th number: "))
+# n5 = int(input("Enter 5th number: "))
+# n6 = int(input("Enter 6th number: "))
+# n7 = int(input("Enter 7th number: "))
+# n8 = int(input("Enter 8th number: "))
+
+# numbers = {n1,n2,n3,n4,n5,n6,n7,n8}
+
+# print(numbers)
+# print(type(numbers))
